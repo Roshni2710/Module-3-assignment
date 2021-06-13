@@ -1,0 +1,29 @@
+#header{background-color: lightgreen;
+        border-radius:0;
+        border:0}
+h1{color:#000;
+   text-shadow: 1px 1px 1px black}
+.navbar-brand a:focus, .navbar-brand a:hover{text-decoration:none}
+.navbar-brand{height:100px}
+.navbar-header button.navbar-toggle{border:1px solid black}
+.navbar-header button.navbar-toggle{clear:both}
+#list a:hover, #list a:active{background-color:black;color:white}
+#list{font-size:1.8em;
+      background-color:darkgreen;
+      margin-top:15px;
+      }
+li {border:1px solid lightgreen;
+   padding-top:10px;
+   padding-bottom: 10px;
+   }
+.navbar-default .navbar-nav>li>a {
+    color: #000;
+}
+.col-xs-12{background-color:lightgreen;
+          height:1000px; 
+          margin-top:30px;
+          margin-bottom: 30px;
+          padding: 15px 30px 15px 30px;
+          overflow:auto;
+}
+h3{padding-bottom: 15px}
